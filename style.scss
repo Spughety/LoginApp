@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nerko+One&display=swap");
 
 $primary-color: green;
 $secondary-color: teal;
@@ -10,7 +10,7 @@ $secondary-color: teal;
 body {
     padding: 0;
     margin: 0;
-    font-family: "Inter", sans-serif;
+    font-family: "Nerko One";
     background: linear-gradient(50deg, $primary-color, $secondary-color);
     padding: 40px;
 }
@@ -28,7 +28,9 @@ body {
     flex-direction: column;
     justify-content: center;
     padding-left: 150px;
-    background-color:  whitesmoke;
+    //Linear Gradient makes it a smooth transition while just setting the background makes it look more book-like
+    background: linear-gradient(90deg, whitesmoke, #eee);
+    //background-color:  whitesmoke;
 }
 
 .login-right {
@@ -38,6 +40,8 @@ body {
 
     img {
         width: 80%;
+        height: 80%;
+        padding-top: 1rem;
     }
 }
 
@@ -80,6 +84,8 @@ body {
             text-decoration: none;
 
             &:hover {
+                //This background gradiant is funny but doesn't match the theme
+                //background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
                 background-color: #eee;
             }
         }
@@ -106,6 +112,7 @@ input[type='password'] {
     outline: none;
     transition: background .5s;
     font-size: 18px;
+    font-family: inherit;
     border-radius: 100px;
 }
 
