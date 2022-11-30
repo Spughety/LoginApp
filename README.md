@@ -2,9 +2,9 @@
 ## Table of Contents
 1. [About This Program](###About-This-Program)
 2. [What I Learned](###What-I-Learned)
-    i. [SCSS](####SCSS)
-    ii. [CSS](####CSS)
-    iii [GitHub](####GitHub)
+    1. [SCSS](####SCSS)
+    2. [CSS](####CSS)
+    3 [GitHub](####GitHub)
 3. [Sources](###Sources)
 
 ### About This Program
@@ -31,14 +31,14 @@ CSS Learned:
 #### GitHub
 GitHub Learned:
 1. Formatting README
-    i. Sublists
-    ii. Headers
-    iii. Table of Contents
-    iiii. Formatting hyperlinks
+    1. Sublists
+    2. Headers
+    3. Table of Contents
+    4. Formatting hyperlinks
 2. Integrating with VisualStudio Code
-    i. Creating a project
-    ii. Pushing and commiting changes
-    iii. Pulling changes
+    1. Creating a project
+    2. Pushing and commiting changes
+    3. Pulling changes
 
 ### Sources
 1. [Codeminton - HTML and SCSS tutorial](https://www.youtube.com/watch?v=9g7rFjOuggU&list=PLubtSAbWc9Wux8swIjmdaK1G67oFnsK3W&index=9&t=290s)
