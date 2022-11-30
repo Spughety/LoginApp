@@ -1,11 +1,11 @@
 # LoginApp
 ## Table of Contents
-1. [About This Program](###About-This-Program)
-2. [What I Learned](###What-I-Learned)
-    1. [SCSS](####SCSS)
-    2. [CSS](####CSS)
-    3. [GitHub](####GitHub)
-3. [Sources](###Sources)
+1. [About This Program](#about-this-program)
+2. [What I Learned](#what-i-learned)
+    1. [SCSS](#scss)
+    2. [CSS](#css)
+    3. [GitHub](#github)
+3. [Sources](#sources)
 
 ### About This Program
 This page functionality is derived from Codeminton, first link in Sources
