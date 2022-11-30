@@ -24,6 +24,7 @@ body {
   flex-direction: column;
   justify-content: center;
   padding-left: 150px;
+  /* Linear Gradient makes it a smooth transition while just setting the background makes it look more book-like */
   background: linear-gradient(90deg, whitesmoke, #eee);
 }
 
@@ -75,6 +76,7 @@ body {
   text-decoration: none;
 }
 .login-form-footer a:hover {
+  /* This background gradiant is funny but doesn't match the theme */
   background-color: #eee;
 }
 
