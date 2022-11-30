@@ -28,7 +28,7 @@ body {
     flex-direction: column;
     justify-content: center;
     padding-left: 150px;
-    //Linear Gradient makes it a smooth transition while just setting the background makes it look more book-like
+    // Linear Gradient makes it a smooth transition while just setting the background makes it look more book-like
     background: linear-gradient(90deg, whitesmoke, #eee);
     //background-color:  whitesmoke;
 }
@@ -84,7 +84,7 @@ body {
             text-decoration: none;
 
             &:hover {
-                //This background gradiant is funny but doesn't match the theme
+                // This background gradiant is funny but doesn't match the theme
                 //background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
                 background-color: #eee;
             }
@@ -120,6 +120,12 @@ input[type='password'] {
     display: flex;
     align-items: center;
     gap: 7px;
+}
+
+.disableHighlight {
+    user-select: none;
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
 }
 
 input[type='checkbox'] {

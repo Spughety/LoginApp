@@ -27,6 +27,7 @@ CSS Learned:
 4. Rounded borders
 5. Customizing checkbox style
 6. @media altering the document based on window size
+7. Disabling text highlighting
 
 #### GitHub
 GitHub Learned:
@@ -46,3 +47,4 @@ GitHub Learned:
 3. [IONOS - README Format Guide](https://www.ionos.com/digitalguide/websites/web-development/readme-file/)
 4. [tchapi - README Format Cheat Sheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 5. [Kevin Powell - CSS em and rem explained](https://www.youtube.com/watch?v=_-aDOAMmDHI)
+6. [W3docs - How to Disable Text Selection Highlighting Using CSS](https://www.w3docs.com/snippets/css/how-to-disable-text-selection-highlighting-using-css.html)

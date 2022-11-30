@@ -108,6 +108,13 @@ input[type=password] {
   gap: 7px;
 }
 
+.disableHighlight {
+  -ms-user-select: none;
+      user-select: none;
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+}
+
 input[type=checkbox] {
   background-color: whitesmoke;
   width: 20px;
