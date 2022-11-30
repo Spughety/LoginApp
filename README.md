@@ -40,8 +40,8 @@ GitHub Learned:
     iii. Pulling changes
 
 ### Sources
-[Codeminton](https://www.youtube.com/watch?v=9g7rFjOuggU&list=PLubtSAbWc9Wux8swIjmdaK1G67oFnsK3W&index=9&t=290s) 
-https://www.geeksforgeeks.org/what-is-the-difference-between-css-and-scss/
-https://www.ionos.com/digitalguide/websites/web-development/readme-file/
-https://www.youtube.com/watch?v=_-aDOAMmDHI
-https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+1. [Codeminton](https://www.youtube.com/watch?v=9g7rFjOuggU&list=PLubtSAbWc9Wux8swIjmdaK1G67oFnsK3W&index=9&t=290s "HTML and SCSS tutorial")
+2. [GeeksforGeeks](https://www.geeksforgeeks.org/what-is-the-difference-between-css-and-scss/ "CSS vs SCSS")
+3. [IONOS](https://www.ionos.com/digitalguide/websites/web-development/readme-file/ "README Format Guide")
+4. [tchapi](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md "README Format Cheat Sheet")
+5. [Kevin Powell](https://www.youtube.com/watch?v=_-aDOAMmDHI "CSS em and rem explained")
