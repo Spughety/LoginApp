@@ -5,10 +5,10 @@
     i. [SCSS](####SCSS)
     ii. [CSS](####CSS)
     iii [GitHub](####GitHub)
+3. [Sources](###Sources)
 
 ### About This Program
-This page functionality is derived from Codeminton:
-https://www.youtube.com/watch?v=9g7rFjOuggU&list=PLubtSAbWc9Wux8swIjmdaK1G67oFnsK3W&index=9&t=290s
+This page functionality is derived from Codeminton, first link in Sources
 
 I am using this to mess around with SCSS and to learn more about front-end development.
 
@@ -38,3 +38,10 @@ GitHub Learned:
     i. Creating a project
     ii. Pushing and commiting changes
     iii. Pulling changes
+
+### Sources
+Markup : [Codeminton](https://www.youtube.com/watch?v=9g7rFjOuggU&list=PLubtSAbWc9Wux8swIjmdaK1G67oFnsK3W&index=9&t=290s "Codeminton") 
+https://www.geeksforgeeks.org/what-is-the-difference-between-css-and-scss/
+https://www.ionos.com/digitalguide/websites/web-development/readme-file/
+https://www.youtube.com/watch?v=_-aDOAMmDHI
+https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
