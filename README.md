@@ -40,7 +40,7 @@ GitHub Learned:
     iii. Pulling changes
 
 ### Sources
-Markup : [Codeminton](https://www.youtube.com/watch?v=9g7rFjOuggU&list=PLubtSAbWc9Wux8swIjmdaK1G67oFnsK3W&index=9&t=290s "Codeminton") 
+[Codeminton](https://www.youtube.com/watch?v=9g7rFjOuggU&list=PLubtSAbWc9Wux8swIjmdaK1G67oFnsK3W&index=9&t=290s) 
 https://www.geeksforgeeks.org/what-is-the-difference-between-css-and-scss/
 https://www.ionos.com/digitalguide/websites/web-development/readme-file/
 https://www.youtube.com/watch?v=_-aDOAMmDHI
