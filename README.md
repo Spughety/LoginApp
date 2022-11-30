@@ -4,7 +4,7 @@
 2. [What I Learned](###What-I-Learned)
     1. [SCSS](####SCSS)
     2. [CSS](####CSS)
-    3 [GitHub](####GitHub)
+    3. [GitHub](####GitHub)
 3. [Sources](###Sources)
 
 ### About This Program
